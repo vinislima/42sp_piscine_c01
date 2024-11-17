@@ -13,8 +13,8 @@ This project covers the topic of module C 01 from the 42 C Piscine, a series of 
 - **`ft_strlen`** - Takes a pointer to a char (string) and returns the number of characters in the string.
 - **`ft_rev_int_tab`** - Takes a pointer to an int and the size of an array, and reverses the order of the elements in the array.
 - **`ft_sort_int_tab`** - Takes a pointer to an int and the size of an array, and sorts the array in ascending order.
-
-Exercises:
+<details>
+	<summary>Exercises:</summary>
 
 - [ex00:](https://github.com/vinislima/42sp_piscine_c01/tree/main/ex00)
     
@@ -608,3 +608,4 @@ Exercises:
     // 	}
     // }
     ```
+</details>
